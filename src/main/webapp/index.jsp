@@ -755,8 +755,8 @@
 
         const PRODUCTS = [{
                 id: 1,
-                title: 'iPhone 14 Pro Max',
-                price: 1099,
+                title: 'iPhone 17 Pro Max',
+                price: 1999,
                 oldPrice: 1199,
                 rating: 5,
                 reviews: 128,
@@ -786,8 +786,8 @@
             },
             {
                 id: 4,
-                title: 'Nike Air Max 270',
-                price: 150,
+                title: 'Nike Air Max 27000',
+                price: 1500,
                 rating: 4,
                 reviews: 53,
                 img: 'https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=600&q=80',
